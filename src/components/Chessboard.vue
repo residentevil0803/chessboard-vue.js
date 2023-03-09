@@ -123,7 +123,6 @@ export default {
 }
 
 .chessboard.mobile {
-  flex-direction: column;
   width: 80%;
   height: auto;
   max-width: none;
